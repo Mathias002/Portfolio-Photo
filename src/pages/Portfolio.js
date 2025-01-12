@@ -47,8 +47,8 @@ const Portfolio = () => {
             Non consequat proident ipsum veniam enim excepteur ad duis 
             consectetur consectetur 
           </p>
-          <Link to={'/contact'} className='btn mb-[30px] mx-auto lg:mx-0'>
-            Hire me
+          <Link to={'/gallery'} className='btn mb-[30px] mx-auto lg:mx-0'>
+            See My Gallery
           </Link>
         </motion.div>
         {/* image grid*/}
